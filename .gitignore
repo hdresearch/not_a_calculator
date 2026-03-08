@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.log
+.env
+
+# Premium features (encrypted)
+premium/
+quantum/
+enterprise/
+
+# License keys (don't commit these!)
+licenses/
+*.license
+*.key
